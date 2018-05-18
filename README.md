@@ -1,9 +1,8 @@
 <p align="center">
     <img alt="awesome" src="https://github.com/edanweis/awesome-inventors/raw/master/media/awesome_glasses.png"/>
-  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /> <span></span><a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg"></a></span>
 </p>
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 # awesome-inventors
 A list of active inventors sharing their knowledge.
 
