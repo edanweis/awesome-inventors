@@ -16,7 +16,7 @@ A curated list of awesome inventors who are alive and well, documenting and shar
 - [Noon van der Silk](https://github.com/silky/ideas/issues)
 
 ## Contributing
-There is no strict definition of "inventor" - but I personally think they're awesome if they 
+There is no strict definition of "inventor" - but I personally think they're awesome if: 
 
 1. Their work is prolific and spans multiple technical areas (ie. programming, electronics, robotics, chemistry, etc.)
 2. They document their process of design or experimentation as a work-in-progress.
